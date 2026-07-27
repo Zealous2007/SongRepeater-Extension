@@ -1,4 +1,4 @@
 # SongRepeater-Extension
 **Site: https://soundcloud.com/**
 
-Repeats a song [avoids ADS]
+Repeats a song (avoids ADS)
